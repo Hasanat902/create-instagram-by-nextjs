@@ -1,9 +1,10 @@
+import Feed from "@/components/Feed";
 
 
 const Home = () => {
   return (
     <div>
-      <h2>Home</h2>
+      <Feed />
     </div>
   );
 };
